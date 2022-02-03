@@ -1,0 +1,34 @@
+.Mass-logo{
+    display: flex;
+    height: 5rem;    
+    align-items: center;
+    position: relative;
+    margin-right: 5rem;   
+    
+}
+
+ul{
+    display: inline-;
+}
+/*.Ul-Logo{
+    display: none;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+*/
+ul li{
+    list-style: none;
+    margin-right: 2rem;
+}
+
+.NavBar{
+    display: flex;
+    justify-content: right;
+}
+
+.NavBar li a{
+    text-decoration: none;
+}
